@@ -13,5 +13,3 @@ Una segunda actualización más
 Cambios desde mi rama local llamada developer01
 
 Cambios desde dev editor
-
-string stripe_api_key="sk_test_efhew7688dfdsf987ffdsf0adc"
